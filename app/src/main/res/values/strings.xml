@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="_11temp">11</string>
+    <string name="time">Time</string>
+    <string name="_15temp">15</string>
+    <string name="todo">TODO</string>
+    <string name="location">Location</string>
+    <string name="enter_your_location">Enter Your Location . . . .</string>
+    <string name="weather">Forecast</string>
+    <string name="todo1">TODO1</string>
+    <string name="todo3">TODO3</string>
+    <string name="_37temp">37</string>
+    <string name="todo4">TODO4</string>
+    <string name="condition1">Condition</string>
+</resources>
